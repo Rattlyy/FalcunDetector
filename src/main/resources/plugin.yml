@@ -1,0 +1,7 @@
+name: FalcunDetector
+version: ${project.version}
+main: it.rattly.FalcunDetector.FalcunDetector
+authors: [Rattly]
+commands:
+  checkfalcun:
+    description: "Check if someone is using Falcun Client"
